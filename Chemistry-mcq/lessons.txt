@@ -1,0 +1,20 @@
+(0) Z-Rules for naming inorganic compounds
+(1) I-Introduction
+(2) II-The components of matter
+(3) III-The mole and the stochiometry of formulas and equations
+(4) IV-Chemical reactions
+(5) V-Quantum theory and atomic structure
+(6) VI- Electron configuration and chemical periodicity
+(7) VII-Models of chemical bonding
+(8) VIII-The shapes of molecules and theories of covalent bonding
+(9) IX-Intermolecular forces
+(10) X-Organic Compounds and the Atomic Properties of Carbon
+(11) XI-Gases and the Kinetic Molecular Theory
+(12) XII-Phase changes and the solid state
+(13) XIII- The Properties of Mixtures-solutions
+(14) XIV- Periodic Patterns in the Main-Group Elements
+(15) XV-Thermochemistry and thermodynamics
+(16) XVI- Kinetics rates and mechanisms of chemical reactions
+(17) XVII- Equilibrium The Extent of Chemical Reactions
+(18) XVIII- Acid-Base and ionic equilibria
+(19) XIX- Electrochemistry

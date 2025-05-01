@@ -1,0 +1,20 @@
+(0) Z-Rules for naming inorganic compounds-mcq.md
+(1) I-Introduction-mcq.md
+(2) II-The components of matter-mcq.md
+(3) III-The mole and the stochiometry of formulas and equations-mcq.md
+(4) IV-Chemical reactions-mcq.md
+(5) V-Quantum theory and atomic structure-mcq.md
+(6) VI- Electron configuration and chemical periodicity-mcq.md
+(7) VII-Models of chemical bonding-mcq.md
+(8) VIII-The shapes of molecules and theories of covalent bonding-mcq.md
+(9) IX-Intermolecular forces-mcq.md
+(10) X-Organic Compounds and the Atomic Properties of Carbon-mcq.md
+(11) XI-Gases and the Kinetic Molecular Theory-mcq.md
+(12) XII-Phase changes and the solid state-mcq.md
+(13) XIII- The Properties of Mixtures-solutions-mcq.md
+(14) XIV- Periodic Patterns in the Main-Group Elements-mcq.md
+(15) XV-Thermochemistry and thermodynamics-mcq.md
+(16) XVI- Kinetics rates and mechanisms of chemical reactions-mcq.md
+(17) XVII- Equilibrium The Extent of Chemical Reactions-mcq.md
+(18) XVIII- Acid-Base and ionic equilibria-mcq.md
+(19) XIX- Electrochemistry-mcq.md
